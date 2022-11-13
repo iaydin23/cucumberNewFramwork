@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cucumber NEW Framework.iml" filepath="$PROJECT_DIR$/.idea/Cucumber NEW Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cucumber NEW Framework/Cucumber_NEW_Framework.iml" filepath="$PROJECT_DIR$/Cucumber NEW Framework/Cucumber_NEW_Framework.iml" />
+    </modules>
+  </component>
+</project>
